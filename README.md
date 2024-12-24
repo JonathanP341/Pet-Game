@@ -4,8 +4,7 @@
 We will be creating a virtual pet game, where you can feed, gift, play and interact with the pet. There will be three pets to choose from with different attributes, these pets will be a Bear, a Cat and a Dog. The main goal of the game is to take care of this pet and make sure it does not die.
 
 # Required Libraries
-
-# Java Swing
+Java Swing
 To compile the software, open the code with an IDE and run StateManager.java main method. (If you are on VSCode, make sure you run the code with 'run Java' and not 'run code')
 
 For the parental controls:
